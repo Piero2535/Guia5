@@ -1,0 +1,10 @@
+Datos Registrados
+-----------------
+Nombre y Apellido........: Piero Saenz
+Genero...................: Masculino
+Estado . . . . . . . . . . . . . : Mayor de edad
+Datos Registrados
+-----------------
+Nombre y Apellido........: Piero Saenz
+Genero...................: Masculino
+Estado...................: Mayor de edad
